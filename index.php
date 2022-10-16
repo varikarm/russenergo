@@ -2,7 +2,7 @@
 <html lang="ru">
   <head>
     <meta charset="utf-8">
-     <link href="index.css" rel="stylesheet" type="text/css">
+     <link href="index_b.css" rel="stylesheet" type="text/css">
      <link href="send.php" rel="stylesheet" type="text/php">
      </link>
 
@@ -292,11 +292,15 @@
           style="position:relative;">
           </iframe>
         </div>
+
+
+
+
       </div>
     </section>
 
     <section>
-      <div class="">
+      <div class="logo">
         <div class="">
           <a href="" class="logo"><img class= "logo_comp" src="Foto/logotip.png" alt=""></a>
           <h3>Присоединяйтесь к нам в социальных сетях!</h3>

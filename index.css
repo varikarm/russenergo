@@ -395,3 +395,223 @@ div.container_shema img.cpu{
   height: auto;
   left: 81.5%;
 }
+
+
+div .container_foto2{
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+
+
+  padding: 5px 0px;
+  width: auto;
+  height: 550px;
+  position: relative;
+  background: #3A4044;
+  }
+
+.container_foto2 img.foto3{
+  position: relativ;
+  display: inline-block;
+  background: #3A4044;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 30px;
+  width: 99em;
+  height: auto;
+}
+
+.container_foto2 h2{
+  position: relativ;
+  display: inline-block;
+  padding: 6% 10px;
+  margin-top: center;
+  font-size: 35px;
+  color: #FF9900;
+}
+
+
+
+.equipment{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+
+  border: 0px solid black;
+
+}
+
+div .equipment1{
+  position: relative;
+
+  padding: 30px 50px;
+  width: 40%;
+  height: auto;
+  position: relative;
+  background: #FF9900;
+  font-size: 19px;
+
+}
+
+
+div .equipment_foto{
+
+  padding: 5px 20px;
+  width: 60%;
+  height: auto;
+  position: relative;
+  background: #FF9900;
+}
+
+.equipment1 h2{
+  padding: 0 35%;
+  margin-top: center;
+  margin: 0 0;
+}
+
+.equipment_foto img.foto4{
+padding: 20px 20px;
+width: 360px;
+height: auto;
+
+}
+
+.equipment_foto img.foto5{
+  position: absolute;
+  top: 31px;
+padding: 10px 20px;
+width: 400px;
+left: 372px;
+height: auto;
+
+}
+
+.equipment_foto img.foto6{
+  position: absolute;
+  top: 196px;
+  left: 522px;
+padding: 10px 20px;
+width: 600px;
+height: auto;
+
+}
+
+
+
+
+div .equipment2{
+  position: relative;
+
+  padding: 15px 20px;
+  width: 56%;
+  height: auto;
+  position: relative;
+  background: #FF9900;
+  font-size: 19px;
+
+}
+
+
+div .equipment_foto2{
+
+  padding: 10px 20px;
+  width: 44%;
+  height: 580px;
+  position: relative;
+  background: #FF9900;
+}
+
+.equipment2 h2{
+  padding: 0 35%;
+  margin-top: center;
+  margin: 0 0;
+}
+
+.equipment_foto2 img.foto7{
+padding: 20px 20px;
+width: 542px;
+height: auto;
+
+}
+
+.equipment_foto2 img.foto8{
+  position: absolute;
+  top: 182px;
+padding: 10px 20px;
+width: 542px;
+left: 283px;
+height: auto;
+
+}
+
+
+
+
+div .equipment3{
+  position: relative;
+
+  padding: 30px 50px;
+  width: 40%;
+  height: auto;
+  position: relative;
+  background: #FF9900;
+  font-size: 19px;
+
+}
+
+
+div .equipment_foto3{
+
+  padding: 5px 20px;
+  width: 60%;
+  height: auto;
+  position: relative;
+  background: #FF9900;
+}
+
+
+.equipment_foto3 img.foto9{
+padding: 20px 20px;
+width: 360px;
+height: auto;
+
+}
+
+.equipment_foto3 img.foto10{
+  position: absolute;
+  top: 0px;
+padding: 10px 20px;
+width: 400px;
+left: 372px;
+height: auto;
+
+}
+
+.equipment_foto3 img.foto11{
+  position: absolute;
+  top: 0px;
+  left: 522px;
+  padding: 10px 20px;
+  width: 600px;
+  height: auto;
+
+}
+
+
+
+.Feedback1{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+
+  border: 0px solid black;
+
+}
+div .Feedback1{
+  border: 0px solid black;
+  adding: 5px 20px;
+  width: 60%;
+  height: 300px;
+  position: relative;
+  background: #3A4044;
+}

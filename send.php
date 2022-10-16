@@ -17,12 +17,12 @@
     $tel = trim($tel);
 
 
-    if (mail("varazdat2001za@gmail.ru",
+    if (mail("Varazdat2001za@gmail.ru",
               "Новое письмо с сайта",
               "Имя: ".$name."\n".
               "Email: ".$email."\n".
               "Телефон: ".$tel,
-              "From: $from")
+              "From: no-reply@mydomain.ru \r\n")
     ){
       echo ('Письмо успешно отправленно');
     }

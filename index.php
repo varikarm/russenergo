@@ -261,11 +261,18 @@
           <form class="forms" action="send.php" method="post">
             <input type="text" name="name" value="" placeholder="Введите имя" required/>
             <input type="email" name="email" value="" placeholder="Введите email" required/>
-            <input type="tel" name="tel" value="" placeholder="xxx-xxx-xxx" required/>
+
+
+            <input type="tel" name="tel" value="" placeholder="xxx-xxx-xxx" required/><br>
+
+
 
             <input type="submit" value="получить консультацию"/>
           </form>
         </div>
+
+
+
         <div style="position:relative;overflow:hidden;">
           <a href="https://yandex.ru/maps/10743/odincovo/?utm_medium=mapframe&utm_source=maps"
           style="color:#eee;font-size:12px;position:absolute;top:0px;">
@@ -277,7 +284,8 @@
           Яндекс Карты — транспорт, навигация, поиск мест
           </a>
           <iframe src="https://yandex.ru/map-widget/v1/-/CCUZyIXJ1B"
-          width="2000"
+          position: relative;
+          width="1900"
           height="400"
           frameborder="1"
           allowfullscreen="true"
@@ -287,7 +295,21 @@
       </div>
     </section>
 
+    <section>
+      <div class="">
+        <div class="">
+          <a href="" class="logo"><img class= "logo_comp" src="Foto/logotip.png" alt=""></a>
+          <h3>Присоединяйтесь к нам в социальных сетях!</h3>
 
+          <img src="" alt="">
+          <img src="" alt="">
+          <img src="" alt="">
+          <img src="" alt="">
+
+        </div>
+
+      </div>
+    </section>
 
 
 
